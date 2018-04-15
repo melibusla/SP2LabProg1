@@ -1,0 +1,12 @@
+D:\Alumno\Desktop\SP2\SP2\bin\Debug\SP2.exe
+D:\Alumno\Desktop\SP2\SP2\bin\Debug\SP2.pdb
+D:\Alumno\Desktop\SP2\SP2\bin\Debug\SP2.xml
+D:\Alumno\Desktop\SP2\SP2\obj\x86\Debug\SP2.Form1.resources
+D:\Alumno\Desktop\SP2\SP2\obj\x86\Debug\SP2.Resources.resources
+D:\Alumno\Desktop\SP2\SP2\obj\x86\Debug\SP2.vbproj.GenerateResource.Cache
+D:\Alumno\Desktop\SP2\SP2\obj\x86\Debug\SP2.exe
+D:\Alumno\Desktop\SP2\SP2\obj\x86\Debug\SP2.xml
+D:\Alumno\Desktop\SP2\SP2\obj\x86\Debug\SP2.pdb
+J:\IES\1er Semestre\Laboratorio 1\SP2\SP2\obj\x86\Debug\SP2.exe
+J:\IES\1er Semestre\Laboratorio 1\SP2\SP2\obj\x86\Debug\SP2.xml
+J:\IES\1er Semestre\Laboratorio 1\SP2\SP2\obj\x86\Debug\SP2.pdb
