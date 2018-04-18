@@ -43,6 +43,7 @@ Partial Class Form1
         Me.Label4 = New System.Windows.Forms.Label()
         Me.txtCosto = New System.Windows.Forms.TextBox()
         Me.btnAceptar = New System.Windows.Forms.Button()
+        Me.btnLimpiar = New System.Windows.Forms.Button()
         Me.Adicionales.SuspendLayout()
         CType(Me.numDias, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.numPersonas, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -242,18 +243,28 @@ Partial Class Form1
         '
         'btnAceptar
         '
-        Me.btnAceptar.Location = New System.Drawing.Point(333, 44)
+        Me.btnAceptar.Location = New System.Drawing.Point(347, 33)
         Me.btnAceptar.Name = "btnAceptar"
         Me.btnAceptar.Size = New System.Drawing.Size(105, 56)
         Me.btnAceptar.TabIndex = 14
-        Me.btnAceptar.Text = "Aceptar"
+        Me.btnAceptar.Text = "&Aceptar"
         Me.btnAceptar.UseVisualStyleBackColor = True
+        '
+        'btnLimpiar
+        '
+        Me.btnLimpiar.Location = New System.Drawing.Point(347, 103)
+        Me.btnLimpiar.Name = "btnLimpiar"
+        Me.btnLimpiar.Size = New System.Drawing.Size(105, 23)
+        Me.btnLimpiar.TabIndex = 15
+        Me.btnLimpiar.Text = "&Limpiar"
+        Me.btnLimpiar.UseVisualStyleBackColor = True
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(493, 323)
+        Me.Controls.Add(Me.btnLimpiar)
         Me.Controls.Add(Me.btnAceptar)
         Me.Controls.Add(Me.txtCosto)
         Me.Controls.Add(Me.Label4)
@@ -302,5 +313,6 @@ Partial Class Form1
     Friend WithEvents Label4 As System.Windows.Forms.Label
     Friend WithEvents txtCosto As System.Windows.Forms.TextBox
     Friend WithEvents btnAceptar As System.Windows.Forms.Button
+    Friend WithEvents btnLimpiar As System.Windows.Forms.Button
 
 End Class
